@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @43861
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Daniel Kertsmik
 
-<!---
-43861/43861 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## My Info
+
+<p>
+  <ol>
+  <li>
+    My web projects <a title="Website" href="https://www.datanom.ax/~43861/"> </a>
+  </li>
+  </ol>
+</p>
+
+## Little about me
+
+## Plans
